@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**alston06/alston06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! My name is Alston. I am from the College of Engineering, Guindy (Tamil Nadu, India), taking BTech. Information Science and Technology.
 
-Here are some ideas to get you started:
+I have a huge interest in coding and design. I am currently developing myself in C, Python, and JavaScript, while constantly enriching my interest in design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am an Ex-house captain and student of OOB, Sharjah, UAE, as well as an Ex-member and founding member of the School tech team which is prospering and achieving great heights currently.
+
+I am always open to learning and meeting new people, which will include you!
+
+Currently working on VS code. Having experience with Anaconda's Spyder and MySql.
+
+
+- 🔭 I’m currently working on this page.
+- 🌱 I’m currently learning C
+- 📫 How to reach me: alston._.peter (Instagram)
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: Been switching schools every 3-5 years...this allows me to make new friends quickly besides being an ambivert.
